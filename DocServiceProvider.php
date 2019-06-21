@@ -1,6 +1,6 @@
 <?php
 
-namespace thincscape\Doc;
+namespace thincscape\docxtotext;
 
 use Illuminate\Support\ServiceProvider;
 
