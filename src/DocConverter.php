@@ -1,6 +1,7 @@
 <?php
     namespace thincscape\docxtotext;
     use ZipArchive;
+    use DOMDocument;
     class DocConverter {
         
         public static function convert($archiveFile, $dataFile = 'word/document.xml') 
