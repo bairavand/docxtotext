@@ -1,0 +1,26 @@
+{
+    "name": "thincscape/docxtotext",
+    "description": "This package helps to convert docx into text",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bairavan",
+            "email": "pairavan96@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "thincscape\\docxtotext\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "thincscape\\docxtotext\\DocServiceProvider"
+            ]
+        }
+    }
+}
