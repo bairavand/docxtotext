@@ -1,7 +1,7 @@
 # Contact Us Form Package
 
-[![Issues](https://img.shields.io/github/issues/bitfumes/contact-package.svg?style=flat-square)](https://github.com/bitfumes/contact-package/issues)
-[![Stars](	https://img.shields.io/github/stars/bitfumes/contact-package.svg?style=flat-square)](https://github.com/bitfumes/contact-package/stargazers)
+[![Issues](https://img.shields.io/github/issues/pairavanvvl/doctotext.svg?style=flat-square)](https://github.com/pairavanvvl/doctotext/issues)
+[![Stars](	https://img.shields.io/github/stars/pairavanvvl/doctotext.svg?style=flat-square)](https://github.com/pairavanvvl/doctotext/stargazers)
 
 
-## This will send email to admin and save contact query in database
+## This package helps to convert docx into text
