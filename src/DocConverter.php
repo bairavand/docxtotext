@@ -1,5 +1,5 @@
 <?php
-    namespace thincscape\docxtotext;
+    namespace thincscape\docxtotext\src;
 
     class DocConverter {
         
